@@ -25,6 +25,4 @@ I'm interested in software development, databases and web technologies. I enjoy 
 To grow as a developer, gain practical experience and eventually work professionally with software development.
 
 ### 📫 Find me
-
-- [GitHub]: (https://github.com/Kasshino05)
 - LinkedIn: (https://www.linkedin.com/in/cassandra-natashia-henckel-0006073a9/)
