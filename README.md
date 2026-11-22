@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Cassandra! 👋
 
-<!--
-**Kasshino05/Kasshino05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT programming student from Denmark 🇩🇰, working towards becoming a software developer.
 
-Here are some ideas to get you started:
+I'm interested in software development, databases and web technologies. I enjoy learning new things and building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages & Technologies
+
+- C#
+- Python
+- JavaScript
+- HTML & CSS
+- SQL / MariaDB
+- Git & GitHub
+
+### 🚀 What I'm working on
+
+- Improving my programming skills
+- Learning more about object-oriented programming
+- Building web applications and database-driven projects
+- Exploring different areas of software development
+
+### 🎯 My Goal
+
+To grow as a developer, gain practical experience and eventually work professionally with software development.
+
+### 📫 Find me
+
+- [GitHub]: (https://github.com/Kasshino05)
+- LinkedIn: (https://www.linkedin.com/in/cassandra-natashia-henckel-0006073a9/)
